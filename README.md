@@ -9,11 +9,13 @@ A Web GIS Platform created for Canadian NEO & DART operations.
 
 ## Quickstart
 
+### Install requirements
+
 You must first install the required Python module.
 
-1. Flask - Will be your lightweight Python webserver
+1. **Flask** - Will be your lightweight Python webserver
 
-2. Geocoder - A pure python Geocoding module.
+2. **Geocoder** - A pure python Geocoding module.
 
 To install these modules, we will be using Pip as our Python install manager.
 
@@ -21,13 +23,19 @@ To install these modules, we will be using Pip as our Python install manager.
 $ pip install flask geocoder
 ```
 
+### Run Server
+
 To run the webserver, simply go in your command prompt and run the Flask application.
 
 ```bash
 $ python runserver.py
 ```
 
-Then go to your web browser and you will be able to see your Web map application.
+Then go to your web browser to `http://127.0.0.1:5000/` and you will be able to see your Web map application.
+
+![Web Map Example](https://raw.githubusercontent.com/mce-scarto/webmap/master/webmap/static/images/example_map.jpg)
+
+
 
 ## The Basics to Learn
 
