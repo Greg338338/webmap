@@ -1,11 +1,10 @@
-# [1st Canadian Division HQ](http://1stcdndiv.com)
+# Web Map
 
-A Web GIS Platform created for Canadian NEO & DART operations.
+A Web Mapping application created to learn the basics of deploying a web map online.
 
-## Aim
+The goal would be to only use open source frameworks and deployable for an unclassified environment.
 
-* Open source and Unclassified platform
-* Creating a mapping platform with a common look and feel
+Once you understand the basics, you can create a common look and feel for your own specific needs.
 
 ## Quickstart
 
