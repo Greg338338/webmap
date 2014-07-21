@@ -1,0 +1,1963 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.50163,
+                    44.3194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Shannons Corners",
+                "osm_id": 30088322.0,
+                "population": null,
+                "type": "village"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.48056,
+                    44.22996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kingston",
+                "osm_id": 30088324.0,
+                "population": null,
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6448,
+                    44.22261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Amherstview",
+                "osm_id": 35011998.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.46228,
+                    44.24058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barriefield",
+                "osm_id": 35012001.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.44866,
+                    44.2671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Greenwood Park",
+                "osm_id": 35012004.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.58092,
+                    44.26723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cataraqui Woods",
+                "osm_id": 35012007.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.54116,
+                    44.3192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elginburg",
+                "osm_id": 275733444.0,
+                "population": null,
+                "type": "town"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4401,
+                    44.19356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marysville",
+                "osm_id": 293540850.0,
+                "population": null,
+                "type": "town"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.44441,
+                    44.2928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kingston Mills",
+                "osm_id": 308085438.0,
+                "population": null,
+                "type": "hamlet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.38796,
+                    44.25583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Milton-on-the-St.-Lawrence",
+                "osm_id": 316684433.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.54038,
+                    44.2823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aylesworth",
+                "osm_id": 316689237.0,
+                "population": null,
+                "type": "village"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.53026,
+                    44.23305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Polson Park",
+                "osm_id": 318718193.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.49362,
+                    44.23044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Student Village",
+                "osm_id": 401554356.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.48441,
+                    44.22832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sydenham",
+                "osm_id": 408333425.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.59435,
+                    44.24953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bayridge",
+                "osm_id": 408425840.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.58552,
+                    44.23298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Auden Park",
+                "osm_id": 408426009.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.33702,
+                    44.18766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529171054.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.45034,
+                    44.23019
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529171059.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4489,
+                    44.23024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529171061.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.41797,
+                    44.16838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wolfe Island",
+                "osm_id": 529269092.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.35598,
+                    44.19597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Thousand Islands",
+                "osm_id": 529269100.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.42299,
+                    44.24572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Poplar Grove",
+                "osm_id": 529269121.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.45368,
+                    44.23581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fort Henry Heights",
+                "osm_id": 529269127.0,
+                "population": null,
+                "type": "unincorporated_a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.46311,
+                    44.24028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barriefield",
+                "osm_id": 529269131.0,
+                "population": null,
+                "type": "unincorporated_a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.41789,
+                    44.24186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "St. Lawrence Woods",
+                "osm_id": 529269137.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.38599,
+                    44.2435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Spectacles",
+                "osm_id": 529269138.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.40422,
+                    44.24862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "King Pitt",
+                "osm_id": 529269142.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.41186,
+                    44.24794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ravensview",
+                "osm_id": 529269143.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.34667,
+                    44.21358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Scotch Settlement",
+                "osm_id": 529269149.0,
+                "population": null,
+                "type": "unincorporated_a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.36219,
+                    44.26449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635644.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.34449,
+                    44.27079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635659.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3477,
+                    44.27029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635674.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.49095,
+                    44.34292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635676.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.41376,
+                    44.32808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635702.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.42216,
+                    44.33862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635704.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.42432,
+                    44.31504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635705.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4085,
+                    44.3221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635706.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.43778,
+                    44.32784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635707.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.42478,
+                    44.315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635709.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.46036,
+                    44.3509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635719.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.46163,
+                    44.35115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635725.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.36956,
+                    44.35348
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635731.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.36915,
+                    44.35308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 529635736.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4784,
+                    44.26516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rideau Heights",
+                "osm_id": 529684418.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.40619,
+                    44.2516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "King Pitt",
+                "osm_id": 529684424.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.39176,
+                    44.2576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eastview",
+                "osm_id": 529684437.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.46034,
+                    44.25916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Maclean Park",
+                "osm_id": 529684439.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.33441,
+                    44.28559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pitts Ferry",
+                "osm_id": 529684451.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.37265,
+                    44.25945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Treasure Island",
+                "osm_id": 529684453.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4654,
+                    44.30642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hemlock Downs",
+                "osm_id": 529684473.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.47875,
+                    44.32071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glenburnie",
+                "osm_id": 529684477.0,
+                "population": null,
+                "type": "town"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.46722,
+                    44.30149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Maple Lawn",
+                "osm_id": 529684479.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.46423,
+                    44.31476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fairmount",
+                "osm_id": 529684494.0,
+                "population": null,
+                "type": "unincorporated_a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.43302,
+                    44.31223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Caseys Island",
+                "osm_id": 529684497.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.42121,
+                    44.32285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Isle of Man",
+                "osm_id": 529684498.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.45453,
+                    44.33647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Chesney",
+                "osm_id": 529684501.0,
+                "population": null,
+                "type": "unincorporated_a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.39013,
+                    44.32544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cushendall",
+                "osm_id": 529684503.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.42253,
+                    44.29879
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Codes Corner",
+                "osm_id": 529684507.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.36214,
+                    44.33584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pine Hill",
+                "osm_id": 529684521.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6225,
+                    44.19295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687194974.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.67573,
+                    44.17942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687194979.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.51805,
+                    44.15676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687194985.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63684,
+                    44.20819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687194987.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.52912,
+                    44.2427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hillendale",
+                "osm_id": 687335653.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.57362,
+                    44.22829
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "LaSalle Park",
+                "osm_id": 687335656.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.62747,
+                    44.22791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elmwood",
+                "osm_id": 687335665.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.57856,
+                    44.23174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Henderson Place",
+                "osm_id": 687335670.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.53286,
+                    44.24648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Balsam Grove",
+                "osm_id": 687335671.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5215,
+                    44.22263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Portsmouth",
+                "osm_id": 687335678.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.61437,
+                    44.24546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lawrence Park",
+                "osm_id": 687335695.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63401,
+                    44.23324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Queens Acres",
+                "osm_id": 687335697.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5028,
+                    44.24749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kingscourt",
+                "osm_id": 687335706.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.56489,
+                    44.21094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Point Pleasant",
+                "osm_id": 687335725.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.68362,
+                    44.21026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nicholsons Point",
+                "osm_id": 687335758.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.57122,
+                    44.21495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Reddendale",
+                "osm_id": 687335761.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.52285,
+                    44.22952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Woodlands",
+                "osm_id": 687335764.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.57945,
+                    44.21612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lakeland Point",
+                "osm_id": 687335769.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.64518,
+                    44.22361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Amherstview",
+                "osm_id": 687335791.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.52753,
+                    44.1608
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Simcoe Island",
+                "osm_id": 687335794.0,
+                "population": null,
+                "type": "unincorporated_a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.52638,
+                    44.23471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Calvin Park",
+                "osm_id": 687335796.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.58161,
+                    44.22127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lakeland Acres",
+                "osm_id": 687335817.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.70101,
+                    44.17008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stella",
+                "osm_id": 687335822.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.60352,
+                    44.24842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "High Gate Park",
+                "osm_id": 687335827.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63329,
+                    44.20477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brother Islands",
+                "osm_id": 687335837.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.61238,
+                    44.24865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Collins Bay",
+                "osm_id": 687335843.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.65408,
+                    44.21642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fairfield Park",
+                "osm_id": 687335848.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6,
+                    44.24629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hillview",
+                "osm_id": 687335858.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.66536,
+                    44.21416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bayview",
+                "osm_id": 687335860.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.58844,
+                    44.24166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bayridge",
+                "osm_id": 687335864.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.53338,
+                    44.23969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Grenville Park",
+                "osm_id": 687335871.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.52954,
+                    44.24868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Valleyview",
+                "osm_id": 687335888.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.60904,
+                    44.24534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Balmoral Park",
+                "osm_id": 687335893.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.67449,
+                    44.33489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625582.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6684,
+                    44.34153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625597.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.66585,
+                    44.31804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625598.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.67904,
+                    44.3229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625601.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.67802,
+                    44.32558
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625602.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.70165,
+                    44.30748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625611.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.70191,
+                    44.31034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625612.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.68675,
+                    44.31425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625615.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6861,
+                    44.31141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625616.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.66811,
+                    44.34027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625635.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.67216,
+                    44.33722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625647.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.70057,
+                    44.30243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625648.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.68648,
+                    44.31155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625651.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6783,
+                    44.32838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": null,
+                "osm_id": 687625658.0,
+                "population": null,
+                "type": "island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.61917,
+                    44.271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westbrook Heights",
+                "osm_id": 687658473.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.67133,
+                    44.31065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sharpton",
+                "osm_id": 687658484.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6187,
+                    44.31614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glenvale",
+                "osm_id": 687658499.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.57309,
+                    44.34837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kepler",
+                "osm_id": 687658576.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.62461,
+                    44.26826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westbrook",
+                "osm_id": 687658619.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.54145,
+                    44.31903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elginburg",
+                "osm_id": 687658623.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6943,
+                    44.33162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Florida",
+                "osm_id": 687658631.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.50193,
+                    44.25244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kingscourt",
+                "osm_id": 687658677.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.54023,
+                    44.30004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Silvers Corners",
+                "osm_id": 687658777.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.52619,
+                    44.25358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strathcona Park",
+                "osm_id": 687658798.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.56027,
+                    44.29892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bur Creek",
+                "osm_id": 687658894.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.54383,
+                    44.25891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cataraqui",
+                "osm_id": 687658942.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.54296,
+                    44.28233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aylesworth",
+                "osm_id": 687658960.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.61238,
+                    44.25252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Collins Bay",
+                "osm_id": 687659030.0,
+                "population": null,
+                "type": "locality"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.59549,
+                    44.2544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westwoods",
+                "osm_id": 1540110595.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.50106,
+                    44.24851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kingscourt",
+                "osm_id": 1705318490.0,
+                "population": null,
+                "type": "neighbourhood"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

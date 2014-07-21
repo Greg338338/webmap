@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block head %}
+  <!--<link rel=stylesheet type=text/css href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" /> -->
+  <link rel=stylesheet type=text/css href="https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.css" />
+  <link rel=stylesheet type=text/css href="/static/css/map.css" />
+
+  <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.ie.css" />
+  <![endif]-->
+  <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+
+{% endblock %}
+
+{% block content %}
+
+<div id='content-container'>
+  <!-- SEARCH -->
+  <div class="input-group" id='search-box'>
+    <input type="text" class="form-control" placeholder="Kingston, Ontario" id='search-text'>
+    <span class="input-group-btn">
+      <button class="btn btn-primary" type="button" id="button-search">Search</button>
+    </span>
+  </div>
+
+  <!-- QUICK FINDER -->
+  <div id='quick-finder'>
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+    Quick Finder <span class="glyphicon glyphicon-search"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="#" class='geocode' data-location='North Bay, Ontario'>North Bay</a></li>
+      <li><a href="#" class='geocode' data-location='Kingston, Ontario'>Kingston</a></li>
+      <li><a href="#" class='geocode' data-location='CFB Trenton, Ontario'>CFB Trenton</a></li>
+      <li><a href="#" class='geocode' data-location='Petawawa, Ontario'>CFB Petawawa</a></li>
+      <li class="divider"></li>
+      <li><a href="#" class='geocode' data-location='Ontario'>AOI Ready Angle</a></li>
+    </ul>
+  </div>
+
+  <!-- ZOOM in & out -->
+  <div class="btn-group-vertical" id='zoom'>
+
+    <button type="button" class="btn btn-default" id='button-zoom-in'>
+      <span class="glyphicon glyphicon-zoom-in"></span>
+    </button>
+    <button type="button" class="btn btn-default" id='button-zoom-out'>
+      <span class="glyphicon glyphicon-zoom-out"></span>
+    </button>
+  </div>
+
+  <!-- ACCOUNT -->
+  <div class="btn-group" id='account'>
+    <button type="button" class="btn btn-default">
+      <span class="glyphicon glyphicon-user"></span> {{ name }}
+    </button>
+    <button type="button" class="btn btn-default">
+      <span class="badge pull-right">1</span>
+      <span class="glyphicon glyphicon-bell"></span> Notifications
+    </button>
+    <button type="button" class="btn btn-default">
+      <span class="glyphicon glyphicon-cog"></span> Settings
+    </button>
+  </div>
+
+  <!-- BASEMAP -->
+  <div id='basemap'>
+    <a href="#basemap" class="thumbnail text-center">
+      <img src="/static/images/thumbnail-imagery.png" alt="imagery" id='button-basemap'>
+      <span id='basemap-text'>Imagery</span>
+    </a>
+  </div>
+</div>
+
+<!-- MAP -->
+<div id='map'></div>
+
+{% endblock %}
+
+{% block footer %}
+  <!-- <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script> -->
+  <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.js'></script>
+  <script src="/static/js/map.js"></script>
+{% endblock %}

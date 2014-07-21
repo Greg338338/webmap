@@ -1,0 +1,48 @@
+body { margin:0; padding:0; }
+
+#content-container { position: absolute; top:0; bottom:0; width:100%; }
+
+#search-box {
+    position: absolute; 
+    left: 0; 
+    margin: 16px; 
+    top: 0; 
+    z-index: 10;
+    width:400px;
+}
+
+#quick-finder {
+    position: absolute; 
+    left: 0; 
+    margin: 16px; 
+    top: 40px; 
+    z-index: 10;
+}
+
+#zoom {
+    position: absolute; 
+    bottom: 10px;
+    right: 0; 
+    margin: 16px; 
+    z-index: 10;
+}
+
+#basemap {
+    position: absolute; 
+    left: 0; 
+    margin: 16px; 
+    bottom: 0; 
+    z-index: 10;
+}
+
+#account {
+    position: absolute; 
+    right: 0; 
+    margin: 16px;
+    padding: 3px;
+    top: 0; 
+    z-index: 10;
+}
+
+
+#map { position:absolute; width:100%; height:100%; z-index:0;}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over" background-color="#ffffff" maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
+
+<Parameters>
+  <Parameter name="bounds">-76.7182,44.2009,-76.2128,44.4779</Parameter>
+  <Parameter name="center">-76.4271,44.2924,10</Parameter>
+  <Parameter name="format">png</Parameter>
+  <Parameter name="minzoom">0</Parameter>
+  <Parameter name="maxzoom">22</Parameter>
+  <Parameter name="name"><![CDATA[roads]]></Parameter>
+  <Parameter name="description"><![CDATA[roads Description]]></Parameter>
+  <Parameter name="version">0.0.0</Parameter>
+</Parameters>
+
+
+<Style name="roadelementwgs84-top" filter-mode="first" >
+  <Rule>
+    <Filter>([GIS_CLASS] = 'ARTERIAL')</Filter>
+    <LineSymbolizer stroke-width="2" stroke="#ff0000" />
+  </Rule>
+</Style>
+<Style name="roadelementwgs84" filter-mode="first" >
+  <Rule>
+    <Filter>([GIS_CLASS] = 'LOCAL')</Filter>
+    <LineSymbolizer stroke-width="0.6" stroke="#b6b6b6" />
+  </Rule>
+  <Rule>
+    <LineSymbolizer stroke-width="1" stroke="#000000" />
+  </Rule>
+</Style>
+<Layer name="roadelementwgs84"
+  srs="+proj=longlat +ellps=WGS84 +no_defs">
+    <StyleName>roadelementwgs84</StyleName>
+    <StyleName>roadelementwgs84-top</StyleName>
+    <Datasource>
+       <Parameter name="file">roads/RoadElement_WGS84.shp</Parameter>
+       <Parameter name="id"><![CDATA[roadelementwgs84]]></Parameter>
+       <Parameter name="project"><![CDATA[roads]]></Parameter>
+       <Parameter name="srs"><![CDATA[]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>
