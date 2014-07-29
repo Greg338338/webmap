@@ -1,9 +1,2 @@
-Flask==0.10.1
-Jinja2==2.7.2
-MarkupSafe==0.19
-Werkzeug==0.9.4
-gunicorn==18.0
-wsgiref==0.1.2
-Flask-Login==0.2.10
-Flask-Script==2.0.3
-pymongo==2.7
+flask==0.10.1
+geocoder==0.7.3
